@@ -171,7 +171,7 @@
             출력하세요.
                 - IMG
 
-                    ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled.png)
+                    <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled.png?raw=true" />
 
                 - 쿼리
 
@@ -189,7 +189,7 @@
             - 사원 테이블에서 사원번호가 7369, 7698 번인 아닌 사원번호와 이름을 출력하세요.
                 - IMG
 
-                    ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%201.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%201.png)
+                    <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%201.png?raw=true" />
 
                 - 쿼리
 
@@ -212,7 +212,7 @@
             - 사원 테이블에서 급여(SAL)가 3000에서 5000사이인 사원 정보를 다 출력하세요.
                 - IMG
 
-                    ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%202.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%202.png)
+                    <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%202.png?raw=true" />
 
                 - 쿼리
 
@@ -235,7 +235,7 @@
             - 사원 테이블에서 고용일자(HIREDATE)가 1981년 12월 1일 이후 고용된 사원 정보를 다 출력하세요.
                 - IMG
 
-                    ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%203.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%203.png)
+                    <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%203.png?raw=true" />
 
                 - 쿼리
 
@@ -254,7 +254,7 @@
             - 사원 테이블에서 직업(JOB)이 SALESMAN 중에서 사원번호의 최대값을 출력하세요.
                 - IMG
 
-                    ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%204.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%204.png)
+                    <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%204.png?raw=true" />
 
                 - 쿼리
 
@@ -276,7 +276,7 @@
             ex) 정렬은 부서명(DNAME), 사원명(ENAME) 오름차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%205.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%205.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%205.png?raw=true" />
 
             - 쿼리
 
@@ -299,7 +299,7 @@
             ex) 정렬은 부서명(DNAME), 사원명(ENAME) 오름차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%206.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%206.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%206.png?raw=true" />
 
             - 쿼리
 
@@ -333,7 +333,7 @@
             ex) 정렬은 부서위치(LOC) 내림차순, 사원명(ENAME) 오름차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%207.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%207.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%207.png?raw=true" />
 
             - 쿼리
 
@@ -352,8 +352,7 @@
             ex) 부서 없는 사원은 제외
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%208.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%208.png)
-
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%208.png?raw=true" />
             - 쿼리
 
                 ```sql
@@ -377,7 +376,7 @@
              ex) 부서 없는 사원은 제외
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%209.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%209.png)
+               <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%209.png?raw=true" />
 
             - 쿼리
 
@@ -403,7 +402,7 @@
             ex) 정렬은 등급(GRADE) 오름차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2010.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2010.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2010.png?raw=true" />
 
             - 쿼리
 
@@ -423,7 +422,7 @@
             ex) 정렬은 급여(SAL) 내림차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2011.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2011.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2011.png?raw=true" />
 
             - 쿼리
 
@@ -445,7 +444,7 @@
             ex) 정렬은 급여(SAL) 내림차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2012.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2012.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2012.png?raw=true" />
 
             - 쿼리
 
@@ -471,7 +470,7 @@
             (급여순위점수(SALGRADE) 테이블 조인)
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2013.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2013.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2013.png?raw=true" />
 
             - 쿼리
 
@@ -493,7 +492,7 @@
             ex) 정렬은 부서명(DNAME) 오름차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2014.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2014.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2014.png?raw=true" />4%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2014.png)
 
             - 쿼리
 
@@ -515,7 +514,7 @@
             - 사원 테이블에서 각 사원에 급여(SAL)가 높은 순서대로 상위 5명을 아래 예제처럼 출력하세요
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2015.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2015.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2015.png?raw=true" />
 
             - 쿼리
 
@@ -537,7 +536,7 @@
             - 사원 테이블에서 각 사원에 급여(SAL)가 높은 순서대로 순위를 부여 했을 때 6등~10등인 사람을 순위대로 아래 예제처럼 출력하세요
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2016.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2016.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2016.png?raw=true" />
 
             - 쿼리
 
@@ -561,7 +560,7 @@
                   WHERE  ROWNUM > 5
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%207.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%207.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%207.png?raw=true" />
 
             - 쿼리
 
@@ -580,9 +579,9 @@
             - SALGRADE 테이블 데이터 세로 정보를 가로로 아래 예제처럼 출력하세요.
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2017.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2017.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2017.png?raw=true" />
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2018.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2018.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2018.png?raw=true" />
 
             - 쿼리
 
@@ -648,7 +647,7 @@
              ex) 부서 없는 사원은 제외
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2019.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2019.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2019.png?raw=true" />
 
             - 쿼리
 
@@ -674,7 +673,7 @@
             ex) EMPNO, MGR, SAL 컬럼 중 널 값이 존재할 경우 0으로 치환 정렬은 최대값 내림차순
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2020.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2020.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2020.png?raw=true" />
 
             - 쿼리
 
@@ -712,7 +711,7 @@
             - 부서 테이블에서 DNAME 컬럼의 길이가 6자리 이상이면 5자리까지 데이터만 보여주고 ‘..’ 뒤에 붙여준다. 아래 예제처럼 출력하세요.
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2021.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2021.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2021.png?raw=true" />
 
             - 쿼리
 
@@ -740,7 +739,7 @@
             고용일자부터 2006/08/05 일자까지 근무일(WORK_DAY)을 아래 예제처럼 출력하세요.
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2022.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2022.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2022.png?raw=true" />
 
             - 쿼리
 
@@ -762,7 +761,7 @@
             - 3번 예제에서 구한 각 사원에 근무일(WORK_DAY)이 가장 높은 사람을 한 명을 아래 예제처럼 출력하세요.
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2023.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2023.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2023.png?raw=true" />
 
             - 쿼리
 
@@ -785,7 +784,7 @@
             - 3번 예제에서 구한 각 사원에 근무일(WORK_DAY)이 가장 높은 사람과 낮은 사람을 각각 한 명씩 아래 예제처럼 출력하세요.
             - IMG
 
-                ![DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2024.png](DB%E1%84%8F%E1%85%AF%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%200e43c18b7f0043c28093e72eb689d18b/Untitled%2024.png)
+                <img src="https://github.com/strong1133/SQL_Study/blob/main/dlab_test/DB%EC%BF%BC%EB%A6%AC%20%EA%B3%B5%EB%B6%80/Untitled%2024.png?raw=true" />
 
             - 쿼리
 
